@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\mrlsl\\source\\repos\\Lecture1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{30CD0FBB-870D-4889-9A9B-F19963EA20EB}|Lecture1\\Lecture1.csproj|c:\\users\\mrlsl\\source\\repos\\lecture1\\lecture1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30CD0FBB-870D-4889-9A9B-F19963EA20EB}|Lecture1\\Lecture1.csproj|solutionrelative:lecture1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{90042B6E-3AC7-CE23-75E9-BC5FB6B00FAA}|Lecture1\\Lecture1.csproj|c:\\users\\mrlsl\\source\\repos\\lecture1\\lecture1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90042B6E-3AC7-CE23-75E9-BC5FB6B00FAA}|Lecture1\\Lecture1.csproj|solutionrelative:lecture1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,9 +26,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mrlsl\\source\\repos\\Lecture1\\Lecture1\\Program.cs",
               "RelativeDocumentMoniker": "Lecture1\\Program.cs",
-              "ToolTip": "C:\\Users\\mrlsl\\source\\repos\\Lecture1\\Lecture1\\Program.cs",
-              "RelativeToolTip": "Lecture1\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAADkAAAAaAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\mrlsl\\source\\repos\\Lecture1\\Lecture1\\Program.cs*",
+              "RelativeToolTip": "Lecture1\\Program.cs*",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-29T17:24:45.647Z",
               "EditorCaption": ""

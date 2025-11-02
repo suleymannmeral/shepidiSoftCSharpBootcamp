@@ -77,19 +77,20 @@
 //Console.WriteLine(kdv);
 
 
-//string name = "Süleyman";
+string name = "Süleyman";
 
-//string surname = "Meral";
+string surname = "Meral";
 
 //int age = 23;
 
-//string FullName = name + " "+  surname + " " + age;
+//string FullName = name + " " + surname + " " + age;
 
 //Console.WriteLine(FullName);
 
 
 //int age = 20; string name = "S";
 
-//int age = 20, number = 15, weight = 85;
+int age = 20, number = 15, weight = 85;
 
+Console.WriteLine(age);
 
